@@ -11,6 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Gustavo da Silva Novaes
+* Mariana Silva de Mello Mattos
 * Thais Angelica Costa Lara
 * Nome completo do aluno 3
 * Nome completo do aluno 4
