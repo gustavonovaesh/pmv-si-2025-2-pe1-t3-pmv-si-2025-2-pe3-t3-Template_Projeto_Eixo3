@@ -12,23 +12,24 @@ Considerando a emergente digitalização do trabalho autônomo e a crescente eco
 
 <!--Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. 
 Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.-->
-A evolução tecnológica e as condições financeiras do país têm impactado fortemente nas relações de trabalho, gerando uma certa evasão de pessoas do mercado de trabalho formal. Isso se deve à lentidão da adaptação das leis trabalhistas às rápidas mudanças e necessidades do mercado de trabalho, baixos salários frente a uma situação de crise econômica, alta da inflação e a mudança de comportamento geracional.
-Diante desse cenário, muitas alternativas vêm sendo criadas, como aplicativos que conectam pessoas em uma relação de trabalho informal, plataformas que unem a oferta e demanda sem a necessidade de grandes burocracias ou altos investimentos.
-É nesse contexto que identificamos a necessidade da criação de uma plataforma que facilite a conexão de prestadores de serviços e a demanda existente, auxiliando na resolução do problema social existente na relação de trabalho que está em constante mudança.
-
+Atualmente, os trabalhadores autônomos ou prestadores de serviço não têm uma plataforma digital com metodologia de acesso à oportunidades de emprego de maneira transparente. As dores retratadas na literatura incluem desde uma experiência que prioriza concorrência, falta de feedback sobre o cliente do serviço prestado e mesmo cobrança de taxas.
 
 ## 1.2. Objetivos do trabalho
 
 <!--Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. O objetivo geral deve resumir e apresentar a ideia central de um trabalho, descrevendo também a sua finalidade. Os objetivos específicos darão uma maior delimitação ao tema, além de detalhar os processos necessários para a realização do trabalho.-->
+
+Desenvolver uma plataforma digital chamada "UaiWork", com transparência sobre cada serviço prestado na relação entre trabalhador e cliente, de maneira a representar de forma mais igualitária e realista como essas relações são dadas na vida real. Assim como prover uma comunidade onde os trabalhadores se impulsionem ao invés de concorrerem, sem custos adicionais.
+
 ### Objetivo Geral:
-O objetivo geral do projeto é desenvolver uma aplicação web que facilite a conexão e a comunicação entre prestadores de serviços autônomos e seus respectivos clientes. A aplicação visa auxiliar, de forma simples e direta, que ambos os usuários (cliente e prestador de serviço) se encontrem na plataforma de acordo com a oferta e demanda de serviços.
+
+O objetivo geral do projeto é desenvolver uma aplicação web que facilite a conexão e a comunicação entre prestadores de serviços autônomos e seus respectivos clientes. A aplicação visa auxiliar, de forma simples e direta, que ambos os usuários (cliente e prestador de serviço) se encontrem na plataforma de acordo com a oferta e demanda de serviços, além de focar no feedback de cada serviço prestado por ambas as partes e possibilitar que prestadores de serviço recomendem um ao outro.
 
 ### Objetivos Específicos:
 - Permitir a criação de um perfil pessoal com as informações relevantes para a prestação ou requisição do serviço.
 - Permitir a comunicação entre cliente e prestador de serviço dentro da plataforma.
 - Permitir que todos os usuários possam avaliar os serviços prestados e a conduta do cliente.
 - Facilitar o processo de busca por prestadores de serviços e clientes através de filtros.
-
+- Proporcionar a recomendação de serviços entre trabalhadores.
 
 ## 1.3. Justificativa
 
