@@ -10,13 +10,9 @@ Considerando a emergente digitalização do trabalho autônomo e a crescente eco
 
 ## 1.1. Problema
 
-<!--Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. 
-Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.-->
 Atualmente, os trabalhadores autônomos ou prestadores de serviço não têm uma plataforma digital com metodologia de acesso à oportunidades de emprego de maneira transparente. As dores retratadas na literatura incluem desde uma experiência que prioriza concorrência, falta de feedback sobre o cliente do serviço prestado e mesmo cobrança de taxas.
 
 ## 1.2. Objetivos do trabalho
-
-<!--Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. O objetivo geral deve resumir e apresentar a ideia central de um trabalho, descrevendo também a sua finalidade. Os objetivos específicos darão uma maior delimitação ao tema, além de detalhar os processos necessários para a realização do trabalho.-->
 
 Desenvolver uma plataforma digital chamada "UaiWork", com transparência sobre cada serviço prestado na relação entre trabalhador e cliente, de maneira a representar de forma mais igualitária e realista como essas relações são dadas na vida real. Assim como prover uma comunidade onde os trabalhadores se impulsionem ao invés de concorrerem, sem custos adicionais.
 
@@ -25,31 +21,28 @@ Desenvolver uma plataforma digital chamada "UaiWork", com transparência sobre c
 O objetivo geral do projeto é desenvolver uma aplicação web que facilite a conexão e a comunicação entre prestadores de serviços autônomos e seus respectivos clientes. A aplicação visa auxiliar, de forma simples e direta, que ambos os usuários (cliente e prestador de serviço) se encontrem na plataforma de acordo com a oferta e demanda de serviços, além de focar no feedback de cada serviço prestado por ambas as partes e possibilitar que prestadores de serviço recomendem um ao outro.
 
 ### Objetivos Específicos:
+
 - Permitir a criação de um perfil pessoal com as informações relevantes para a prestação ou requisição do serviço.
 - Permitir a comunicação entre cliente e prestador de serviço dentro da plataforma.
-- Permitir que todos os usuários possam avaliar os serviços prestados e a conduta do cliente.
+- Permitir que todos os usuários possam avaliar cada serviço prestado, assim como a conduta do cliente e do prestador.
 - Facilitar o processo de busca por prestadores de serviços e clientes através de filtros.
 - Proporcionar a recomendação de serviços entre trabalhadores.
 
 ## 1.3. Justificativa
 
-<!--Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.-->
-A mudança e o avanço da tecnologia na sociedade vem impactando na forma como nos relacionamos em todos os níveis, inclusive nas relações de trabalho. O desenvolvimento de novas ferramentas e automação de tarefas vem substituindo o trabalho humano e modificando a forma como produzimos e prestamos serviços. A velocidade em que isso vem ocorrendo está sendo maior do que a nossa capacidade de nos adaptar socialmente a essas mudanças.
 
-Diante desse cenário, se faz necessário o desenvolvimento de novas soluções que amparem e auxiliem na relação de trabalho de acordo com a mudança social atual. Hoje temos uma grande parcela da população na informalidade pelos mais diversos motivos como, falta de qualificação profissional, baixos salários dos empregos formais, falta de flexibilidade das leis trabalhistas frente a diferentes necessidades dos trabalhadores, além daqueles que prestam serviços autônomos como forma de complementar a renda.
+Com a digitalização dos meios de trabalho e a ascenção da economia gig work, é cada vez mais comum o surgimento de plataformas que conectem trabalhadores e empresas ou clientes de diversos setores. A maioria delas, entretanto, é feita para segmentos específicos (ex: alimentação, transporte, etc), sendo ainda pendente a digitalização de serviços de maneira mais genérica (independente do tipo) e global (independente do formato, digital ou presencial);
 
-Agora estamos entrando em uma nova revolução tecnológica com o avanço da inteligência artificial e isso irá impactar fortemente a forma como prestamos serviços e novamente será necessário pensar em formas de contornar os problemas advindos dessa evolução.
+Apesar do contexto Brasileiro ter plataformas que já conectam clientes e prestadores de serviço nessa modalidade, como a GetNinjas, essas plataformas penalizam os trabalhadores de diversas formas. Conforme relatado pelos próprios prestadores de serviço, são 3 principais problemas: (1) concorrência entre prestadores, (2) avaliação unilateral dos serviços pretados e (3) cobrança de taxa para acesso às oportunidades de trabalho (Grohman, 2020; Carelli, 2020)
 
-Com essas constantes mudanças nas relações de trabalho se faz necessário uma maior flexibilidade e autonomia das pessoas para a prestação e contratação de serviços. Porém com a lentidão das adaptações estruturais e formais desse processo as pessoas têm buscado formas alternativas de renda, ou seja, na informalidade. Por isso a criação desta aplicação tem o intuito de contribuir e facilitar esse processo alternativo de trabalho.
+Com base nisso, tem-se a oportunidade de explorar as dores relatadas por esses prestadores de serviço e trazer uma plataforma que atenda efetivamente a relação prevista entre cliente e contratado, assim como reflita a relação de rede de recomendação que por vezes existena modalidade de trabalho autônomo.
 
 
 ## 1.4. Público alvo
 
-<!--Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.-->
-
 O público alvo do projeto são pessoas a partir dos 18 anos de idade que precisam ou prestam serviços de forma autônoma.
 
-Prestadores de serviço: Pessoas que prestam algum serviço de forma autônoma, sem necessidade de vínculo empregatício. Esse grupo está interessado em encontrar clientes na plataforma que necessitem dos serviços prestados por ele.
+Prestadores de serviço: Pessoas que prestam algum serviço de forma autônoma, sem necessidade de vínculo empregatício. Esse grupo está interessado em encontrar clientes na plataforma que necessitem dos serviços prestados por ele, tendo a faixa etária diversa.
 
-Clientes: Pessoas que necessitam de determinados serviços que possam ser desempenhados por pessoas autônomas. Esse grupo está interessado em encontrar prestadores de serviço de acordo com a sua necessidade atual.
+Clientes: Pessoas ou empresas que necessitam de determinados serviços que possam ser desempenhados por pessoas autônomas. Esse grupo está interessado em encontrar prestadores de serviço de acordo com a sua necessidade atual.
 
