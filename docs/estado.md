@@ -8,6 +8,7 @@
 5.	Quais aspectos carecem de maior abordagem?
 
 É importante referenciar estas pesquisas, fazendo as devidas citações de acordo com as normas da ABNT e colocando as referências completas ao final do trabalho.-->
+### Introdução
 
 As plataformas digitais de prestação de serviços têm transformado significativamente as dinâmicas de intermediação entre clientes e profissionais autônomos. Modelos como o da plataforma GetNinjas exemplificam a adoção de sistemas técnicos baseados em algoritmos, fluxos de informação otimizados e mecanismos digitais de monetização, como leads pagos e moedas virtuais. Essas plataformas funcionam como marketplaces, oferecendo uma arquitetura híbrida que integra aplicações web e mobile, sistemas de ranqueamento, geolocalização e controle de reputação.
 Nos últimos anos, o crescimento desse tipo de serviço motivou uma série de pesquisas acadêmicas com diferentes enfoques — desde aspectos sociais e jurídicos até abordagens técnicas voltadas à engenharia de sistemas, usabilidade e lógica algorítmica. Este trabalho tem como objetivo apresentar o estado da arte dessas pesquisas sob uma perspectiva técnica, analisando as soluções desenvolvidas, os modelos de negócio adotados, as divergências teóricas e as lacunas ainda existentes no campo.
