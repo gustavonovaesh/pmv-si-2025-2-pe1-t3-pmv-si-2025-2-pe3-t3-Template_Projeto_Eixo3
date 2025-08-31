@@ -1,4 +1,4 @@
-# Título do Projeto
+# UaiWork
 
 `CURSO: Sistemas de Informação`
 
@@ -6,21 +6,20 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto UaiWork é uma plataforma digital que busca conectar trabalhadores autônomos e clientes de forma mais justa e transparente. A ideia é criar um ambiente que resolva problemas comuns em aplicativos similares. O projeto visa construir uma comunidade onde os profissionais possam se ajudar e encontrar oportunidades de trabalho de maneira mais simples e eficaz.
 
 ## Integrantes
 
 * Gustavo da Silva Novaes
 * Mariana Silva de Mello Mattos
 * Thais Angelica Costa Lara
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Felipe Franco Soares
+* Theo Xavier Lopes
+* Carlos Aguinaldo Alves Marques da Silveira
 
 ## Orientador
 
-* Nome completo do professor 
+* Maria Ines Lage de Paula
 
 # Planejamento
 
